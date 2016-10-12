@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bestresidence>
+    <client>
+        <identifiant>0</identifiant>
+        <genre>Mr.</genre>
+        <nom>zdf</nom>
+        <prenom>sfsdf</prenom>
+        <datenaissance>01/01/2000</datenaissance>
+        <adresseclient>sdsd</adresseclient>
+        <villeclient>sddsds</villeclient>
+        <codepostalclient>dsfdsfdfs</codepostalclient>
+        <courriel>dfsdsfdsf</courriel>
+        <telephone>dfsdfs</telephone>
+        <nbcontrats>1</nbcontrats>
+        <datecreation>11/10/2016</datecreation>
+    </client>
+    <immobilier>
+        <annonce>Location</annonce>
+        <bien>Maison</bien>
+        <pieces>1</pieces>
+        <superficie>1</superficie>
+        <adresse>sdf</adresse>
+        <ville>sdf</ville>
+        <codepostal>sd</codepostal>
+        <description>sdfsdf</description>
+        <prix>1</prix>
+        <date>11/10/2016</date>
+        <principale>../../../../BestResidence/Photos/Capture d’écran 2016-10-08 à 11.26.19.png</principale>
+        <supp1>../../../../BestResidence/Photos/Capture d’écran 2016-10-08 à 11.26.19.png</supp1>
+        <supp2>../../../../BestResidence/Photos/Stats IC OFBC.jpg</supp2>
+        <supp3></supp3>
+        <supp4></supp4>
+        <supp5></supp5>
+        <supp6></supp6>
+        <supp7></supp7>
+        <supp8></supp8>
+        <histo>0</histo>
+        <idprop>0</idprop>
+        <idclient></idclient>
+    </immobilier>
+</bestresidence>
